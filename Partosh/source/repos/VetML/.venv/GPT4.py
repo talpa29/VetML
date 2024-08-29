@@ -3,13 +3,13 @@ import os
 
 # Initialize the OpenAI API key
 
-openai.api_key = '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'
+openai.api_key = 'take from dictionary'
 
 def generate_text(prompt):
     try:
         # Call the GPT-4 model with Completion.create
         client = openai.OpenAI(
-            api_key = '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'
+            api_key = 'take from dictionary'
         )
 
 
